@@ -1,0 +1,25 @@
+.card
+  {
+	border:1px solid whitesmoke;
+	box-shadow: 0 1px 10px 2px #cccccc73;
+	padding-left:20px;
+  }
+  .img-thumbnail {
+    padding: 0px;
+    line-height: 1.42857143;
+    background-color: white;
+    transition: all .2s ease-in-out;
+    display: inline-block;
+    border: none;
+    border-radius: 0px;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    max-width: 100%;
+    height: auto;
+    }
+    .sectioncard
+    {
+    margin-top:15px;
+    font-size:24px
+    }
+    
